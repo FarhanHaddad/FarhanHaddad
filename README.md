@@ -7,6 +7,10 @@
 </picture>
 
 ###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/FarhanHaddad/FarhanHaddad/snake-output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **FarhanHaddad/FarhanHaddad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,4 @@
 ## Hi there 👋
-<br clear="both">
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarhanHaddad/FarhanHaddad/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FarhanHaddad/FarhanHaddad/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
